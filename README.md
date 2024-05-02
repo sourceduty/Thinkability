@@ -1,4 +1,4 @@
-![Thinkability](https://github.com/sourceduty/Thinkability/assets/123030236/cbe8b915-8c40-48b0-a2fa-6cfcde7aae44)
+![Thinkability](https://github.com/sourceduty/Thinkability/assets/123030236/9c1b8ca2-4d6b-4284-9fb3-5eb1f973f643)
 
 [Thinkability](https://chat.openai.com/g/g-kabr1c9j2-thinkability) was developed to evaluate and discuss the level of human-like thought demonstrated by software, particularly in the realms of reasoning, problem-solving, and decision-making abilities of different AI systems. By exploring these aspects, Thinkability helps in understanding how various AI technologies mimic or differ from human cognitive processes. This includes discussing AI development trends and cognitive architectures.
 
